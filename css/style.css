@@ -1,0 +1,30 @@
+.wp-admin .tab-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.wp-admin .tab-content .admin-left {
+	min-width:600px;
+	max-width: 1200px;
+	padding: 5px 0;
+	margin-top: 10px;
+	display: inline-block;
+}
+.wp-admin .tab-content .admin-right {
+	width: 300px;
+	min-width: 300px;
+	background: #fff9e7;
+	border: 1px solid #d8d8bf;
+	padding: 5px 25px;
+	border-radius: 6px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.toplevel_page_jmitch-tinylytics .nav-tab {
+	border-radius: 6px 6px 0 0;
+}
+.donate-button {
+	display: block !important;
+	text-align: center;
+    margin: 20px 0 !important;
+ }
